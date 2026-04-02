@@ -18,3 +18,11 @@ Deep learning models for grayscale-to-color image translation
 - Python
 - PyTorch
 - Resnet, U-net, GAN
+
+## Result
+<p align="center">
+  <b>Before</b><br>
+  <img src="Code/before.png" width="400"><br><br>
+  <b>After</b><br>
+  <img src="Code/after.png" width="400">
+</p>
